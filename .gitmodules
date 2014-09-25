@@ -14,3 +14,7 @@
 	path = webinterface
 	url = git://github.com/KnCMiner/webinterface.git
 	branch = titan-web
+[submodule "linux"]
+	path = linux
+	url = git://github.com/KnCMiner/linux
+	branch = rpi-3.12.y.knc
